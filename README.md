@@ -10,3 +10,5 @@ Data Producers [IoT Sensors, Web/Mobile, SaaS Apps] -> Message Brokers -> Data C
 
 A data pipeline reliably processes and moves data from one system to another, and a streaming application is an application that consumes streams of data
 
+**Kafka combines messaging queue and publish subscribe approaches.**
+
